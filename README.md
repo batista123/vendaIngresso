@@ -13,3 +13,5 @@ Explicações de cada arquivo:
 
 *Usuario e Produto: são os dois modelos que foram adicionionados no mongodb;
 
+*compra.handlebars, registro.handlebars, login.handlebars : São as Views do Front-end.
+
