@@ -9,4 +9,6 @@ Explicações de cada arquivo:
 
 *usuario.js: Rota de usuarios, nele estão contidas todas rodas que o usuário terá acesso;
 
+*auth.js: Aqui está a configuração da autentificação de login, nesse configurei a função passport, que é uma extenção que permite a autentificação;
+
 
