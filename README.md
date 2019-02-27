@@ -2,6 +2,7 @@
 Este foi um app criado para a 3ª fase do processo seletivo de estágio na Transitar Engenharia
 
 Explicações de cada arquivo:
+<b>*Blogapp.zip : projeto completo zipado;</b>
 
 *app.js: É o arquivo principal do projeto;
 
