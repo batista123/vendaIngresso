@@ -11,5 +11,5 @@ Explicações de cada arquivo:
 
 *auth.js: Aqui está a configuração da autentificação de login, nesse configurei a função passport, que é uma extenção que permite a autentificação;
 
-*Usuario e Produto: são os dois modelos que foram adicionionados do mongodb;
+*Usuario e Produto: são os dois modelos que foram adicionionados no mongodb;
 
